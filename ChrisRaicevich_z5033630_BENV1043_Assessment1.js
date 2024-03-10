@@ -1645,14 +1645,14 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"sounds/_362204__taranp__horn_fail_wahwah_3wav.mp3?1710048854777", id:"_362204__taranp__horn_fail_wahwah_3wav"},
-		{src:"sounds/_398255__morganpurkis__bombdroppingwav.mp3?1710048854777", id:"_398255__morganpurkis__bombdroppingwav"},
-		{src:"sounds/_502623__klankbeeld__bicyclepassing008150809_01wav.mp3?1710048854777", id:"_502623__klankbeeld__bicyclepassing008150809_01wav"},
-		{src:"sounds/_555898__jimrussman__thomthunk.mp3?1710048854777", id:"_555898__jimrussman__thomthunk"},
-		{src:"sounds/_611111__5ro4__bellding3wav.mp3?1710048854777", id:"_611111__5ro4__bellding3wav"},
-		{src:"sounds/_649336__sonofxaudio__bow_draw_slow01wav.mp3?1710048854777", id:"_649336__sonofxaudio__bow_draw_slow01wav"},
-		{src:"sounds/_701038__manofham__looseclassicbikebelldoubleding1wav.mp3?1710048854777", id:"_701038__manofham__looseclassicbikebelldoubleding1wav"},
-		{src:"sounds/_701038__manofham__looseclassicbikebelldoubleding1wavcopy.mp3?1710048854777", id:"_701038__manofham__looseclassicbikebelldoubleding1wavcopy"}
+		{src:"sounds/_362204__taranp__horn_fail_wahwah_3wav.mp3", id:"_362204__taranp__horn_fail_wahwah_3wav"},
+		{src:"sounds/_398255__morganpurkis__bombdroppingwav.mp3", id:"_398255__morganpurkis__bombdroppingwav"},
+		{src:"sounds/_502623__klankbeeld__bicyclepassing008150809_01wav.mp37", id:"_502623__klankbeeld__bicyclepassing008150809_01wav"},
+		{src:"sounds/_555898__jimrussman__thomthunk.mp3", id:"_555898__jimrussman__thomthunk"},
+		{src:"sounds/_611111__5ro4__bellding3wav.mp37", id:"_611111__5ro4__bellding3wav"},
+		{src:"sounds/_649336__sonofxaudio__bow_draw_slow01wav.mp37", id:"_649336__sonofxaudio__bow_draw_slow01wav"},
+		{src:"sounds/_701038__manofham__looseclassicbikebelldoubleding1wav.mp3", id:"_701038__manofham__looseclassicbikebelldoubleding1wav"},
+		{src:"sounds/_701038__manofham__looseclassicbikebelldoubleding1wavcopy.mp3", id:"_701038__manofham__looseclassicbikebelldoubleding1wavcopy"}
 	],
 	preloads: []
 };
